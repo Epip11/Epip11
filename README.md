@@ -58,22 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Epip11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
----
 
-### 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Epip11&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📈 **GitHub Contribution Snake Animation**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
 
 <p align="center">
   ✨ <i>"Turning complex problems into elegant, scalable mobile solutions."</i> ✨
